@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:latest
 
 ENV DOCKER_NAME="nginx"
 ENV LANG C.UTF-8
